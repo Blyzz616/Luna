@@ -51,17 +51,17 @@ Single lighting circle around the speaker - will need configuration somehow/wher
 
 ## Signal Flow Diagram
 
-1. Raspberry Pi  
-    Outputs the digital audio signal.  
-2. HiFiBerry DAC+Amp (Amp2)  
-    Converts the digital signal to analog (DAC functionality).  
-    Amplifies the analog signal for the speakers.  
-3. Crossover  
+1. Raspberry Pi
+   - Outputs the digital audio signal.  
+3. HiFiBerry DAC+Amp (Amp2)
+   - Converts the digital signal to analog (DAC functionality).
+   -     Amplifies the analog signal for the speakers.  
+5. Crossover  
     Input: Receives the full-range amplified audio signal from the Amp2.  
     Outputs:  
         Sends low and mid frequencies to the woofer.  
         Sends high frequencies to the tweeter.  
-4. Speakers
+6. Speakers
     Woofer: Plays the low and mid-range sounds.
     Tweeter: Plays the high-frequency sounds.
 
