@@ -68,6 +68,17 @@ Single lighting circle around the speaker - will need configuration somehow/wher
    - Woofer: Plays the low and mid-range sounds.
    - Tweeter: Plays the high-frequency sounds.
 
+## What Luna should look like:
+1. Luna would be a circular, tower-like design
+2. There will be 4 vertical supports on the outside
+3. The very bottom would be a base about half an inch thick and include the input for the power supply and the power will run up one of the 4 supports to the electronics layer.
+4. Layer 1, above the base, will be a vertical cone (with the point of the cone pointing upwards to redirect the audio out 360 degrees.
+5. Layer 2 will be the woofer pointing downwards towards the cone on layer 1.
+6. Layer 3, above the woofer will be a very narrow circular light ring, all the way around the tower. It will not be on the outside (it will be flush with the tower). It will more than likely be a High Density COB Color Chasing Lights Addressable RGB LED Strip.
+7. Layer 4, above the light ring will be the electronics layer: The raspberry pi zero 2 w, the hifiberry (amp and dac), the respeaker2 (mic array) and the crossover.
+8. Layer 4, above the electronics layer will be the tweeter pointing upwards.
+9. Layer 5, above the tweeter will be another cone with the point pointing down towards the tweeter to redirect the audio outwards.
+
 
 
 ## Setup
