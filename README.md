@@ -31,10 +31,9 @@ It powers the Raspberry Pi, there is no need to add an external 5V power supply 
 
 ### Power Supply
 
-A 12V–24V DC power supply for the amplifier (check the amp’s specs).
-Step-down converter from the amplifier's supply
+A 12V–24V DC power supply for the amplifier. 
 
-### Crossover 
+### Crossover
 
 [Dayton Audio XO2W-2.5K 2-Way Crossover 2,500 Hz](https://www.daytonaudio.com/product/593/xo2w-2-5k-2-way-crossover-2-500-hz)
 
@@ -48,6 +47,9 @@ A crossover is an electronic component used in speaker systems to divide the aud
 [DC24V/12V High Density COB Color Chasing Lights Addressable RGB LED Strip](https://www.superlightingled.com/dc24v12v-high-density-cob-color-chasing-lights-addressable-rgb-led-strip-p-4940.html)
 
 Single lighting circle around the speaker - will need configuration somehow/where
+
+![image](https://github.com/user-attachments/assets/fab22a2f-6f10-4706-8bc9-e39fb62f095f)
+
 
 ## Signal Flow Diagram
 
