@@ -27,7 +27,8 @@ The Raspberry Pi’s built-in audio can be noisy. A DAC provides much cleaner so
 Mount it onto the Raspberry Pi and you have a stereo audio system. You only have to connect your loudspeakers. It provides up to 60W power. You only need a single 12V power supply to power the Raspberry Pi and the Amp2. 
 It powers the Raspberry Pi, there is no need to add an external 5V power supply to the Raspberry Pi.
 
-![image](https://github.com/user-attachments/assets/d0f9adcb-950a-481a-a303-9c64ab022656)
+![image](https://github.com/user-attachments/assets/1901bc8b-c341-4db0-b666-84a3290eb6f3)
+
 
 ### Power Supply
 
